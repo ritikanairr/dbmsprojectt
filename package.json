@@ -3,6 +3,7 @@
     "@types/bcrypt": "^6.0.0",
     "@types/express": "^5.0.4",
     "@types/jsonwebtoken": "^9.0.10",
-    "@types/node": "^24.9.1"
+    "@types/node": "^24.9.1",
+    "@types/pg": "^8.15.5"
   }
 }
